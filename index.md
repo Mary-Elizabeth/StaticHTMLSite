@@ -12,7 +12,7 @@
 	
 	<!-- Style HTML, instead of CSS StyleSheet -->
 	<style>
-		/* Header & Footer Styles */	
+		/* Header and Footer Styles */	
 		header {
 			background-color: #555;
 			color: white;
